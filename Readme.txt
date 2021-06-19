@@ -34,3 +34,5 @@ Una diferencia es que, en la Agregación, la vida o existencia de los objetos re
 
 
 Fe de erratas: No logré hacer el ejercicio de la impresión, me faltó tiempo.
+
+El .exe está en ClothingStore => bin => debug
